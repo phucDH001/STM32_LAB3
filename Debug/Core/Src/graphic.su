@@ -1,0 +1,4 @@
+graphic.c:3:6:setLedOff	8	static
+graphic.c:9:6:setLedRed	8	static
+graphic.c:15:6:setLedGreen	8	static
+graphic.c:21:6:setLedAmber	8	static
